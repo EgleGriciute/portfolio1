@@ -10,7 +10,7 @@ const portfoliocertificates = [
   {
     schoolName: "Udemy",
     year: "2023",
-    title: "IT Support Technical Skills",
+    title: "IT Support Technical Skills Bootcamp",
     results: [
       { title: "Windows services and operating systems" },
       { title: "User account management and AD" },
